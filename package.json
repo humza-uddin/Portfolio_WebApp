@@ -10,5 +10,9 @@
     "react-router-dom": "^6.15.0",
     "react-scripts": "^5.0.1",
     "web-vitals": "^3.4.0"
+  },
+  "devDependencies": {
+    "customize-cra": "^1.0.0",
+    "react-app-rewired": "^2.2.1"
   }
 }
