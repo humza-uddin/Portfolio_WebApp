@@ -1,0 +1,12 @@
+@import url("https://fonts.google.apis.com/css2?family=Russo+One&display=swap");
+body {
+    font-family: "Russo One", sans-serif;
+    color: white;
+    -webkit-tap-highlight-color: transparent;
+}
+
+:root {
+    --purple: #530351;
+    --purple: #3627b1;
+    --purple: #25afce;
+}
